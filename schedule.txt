@@ -1,0 +1,4 @@
+00:58:45 print Good morning!
+00:58:47 create_file log.txt
+00:58:50 list_files .
+00:58:59 print All done, have a great day!
